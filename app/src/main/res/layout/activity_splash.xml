@@ -6,4 +6,14 @@
     android:layout_height="match_parent"
     tools:context=".activities.SplashActivity">
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="328dp"
+        android:layout_height="260dp"
+        android:layout_marginTop="208dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/detik" />
 </androidx.constraintlayout.widget.ConstraintLayout>
