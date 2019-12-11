@@ -2,11 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/Beranda"
         android:title="Beranda"
-        android:icon="@drawable/home" />
+        android:icon="@drawable/hom" />
     <item android:id="@+id/List"
         android:title="List"
-        android:icon="@drawable/book" />
+        android:icon="@drawable/monitor" />
     <item android:id="@+id/Akun"
-        android:title="Akun"
-        android:icon="@drawable/user" />
+        android:title="Acount"
+        android:icon="@drawable/man" />
 </menu>
