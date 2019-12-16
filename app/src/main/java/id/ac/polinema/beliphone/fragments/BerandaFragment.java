@@ -49,10 +49,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "1");
-                i.putExtra("title", "Hotel Singhasari");
-                i.putExtra("desc", " menyediakan layanan dan fasilitas lain seperti VIP Karaoke"+
-                        "Coffee Shop, Cake Shop, Parkway Health, Swimming Pool " +
-                        "Jl. Ir. Soekarno No.120, Beji, Kec. Batu, Kota Batu, Jawa Timur 65236");
+                i.putExtra("title", "HiPhone 11 Pro");
+                i.putExtra("desc", " Tahun peluncuran: 2019\n" +
+                        "Kapasitas: 64, 256, 512 GB\n" +
+                        "Warna: Perak, abu-abu, emas, hijau gelap\n" +
+                        "Nomor model: A2160 (Kanada, Amerika Serikat), A2217 (Tiongkok daratan, Hong Kong, Makau), A2215 (negara dan wilayah lain)6");
                 startActivity(i);
             }
         });
@@ -61,9 +62,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "2");
-                i.putExtra("title", "Hotel Grand City");
-                i.putExtra("desc", " menyediakan layanan dan fasilitas lain seperti VIP Karaoke,"+
-                        " Bamboo Coffee ShopJl. Bukit Berbunga No.104-108, Sidomulyo, Kec. Batu, Kota Batu, Jawa Timur 65317");
+                i.putExtra("title", "iPhone 11 Pro Max");
+                i.putExtra("desc", " Tahun peluncuran: 2019\n" +
+                        "Kapasitas: 64, 256, 512 GB\n" +
+                        "Warna: Perak, abu-abu, emas, hijau gelap\n" +
+                        "Nomor model: A2161 (Kanada, Amerika Serikat), A2220 (Tiongkok daratan, Hong Kong, Makau), A2218 (negara dan wilayah lain)");
                 startActivity(i);
             }
         });
@@ -72,12 +75,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "3");
-                i.putExtra("title", "Hotel Kartika");
-                i.putExtra("desc", "Hotel Kartika juga menyediakan layanan dan fasilitas lain seperti VIP Karaoke," +
-                        " Bamboo Coffee Shop, Cake Shop, Parkway Health, Swimming Pool, " +
-                        " VIP Azelia Meeting Room, Laundry, Swarna Paksi Ballroom, " +
-                        "Taxi Service, Rental Mobil " +
-                        " Jl. Jaksa Agung Soeprapto 17, Malang");
+                i.putExtra("title", "iPhone 11");
+                i.putExtra("desc", "Tahun peluncuran: 2019\n" +
+                        "Kapasitas: 64, 128, 256 GB\n" +
+                        "Warna: Ungu, hijau, kuning, hitam, putih, (PRODUCT)RED\n" +
+                        "Nomor model: A2111 (Kanada, Amerika Serikat), A2223 (Tiongkok daratan, Hong Kong, Makau), A2221 (negara dan wilayah lain)");
                 startActivity(i);
             }
         });
@@ -86,9 +88,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "4");
-                i.putExtra("title", "Wisata Batu Flower Garden");
-                i.putExtra("desc", "Objek wisata ini memiliki pemandangan sisi bukit dengan bunga, air terjun, dan berbagai aktivitas.\n" +
-                        "Alamat: Oro-Oro Ombo, Kehutanan, Kec. Batu, Kota Batu, Jawa Timur 65151");
+                i.putExtra("title", "iPhone XS");
+                i.putExtra("desc", "Tahun peluncuran: 2018\n" +
+                        "Kapasitas: 64, 256, 512 GB\n" +
+                        "Warna: Silver, space gray, gold\n" +
+                        "Nomor model: A1920, A2097, A2098 (Jepang), A2099, A2100 (Tiongkok daratan)");
                 startActivity(i);
             }
         });
@@ -97,9 +101,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "5");
-                i.putExtra("title", "Wisata Paralayang Batu");
-                i.putExtra("desc", "Salah satu wisata yang sedang nge-hits di sini adalah Paralayang Batu Malang, salah satu objek wisata yang menyediakan fasilitas kegiatan yang memicu dan memacu adrenalin." +
-                        " Paralayang Batu Malang bisa membuat anda mengucurkan keringat dingin, bersemangat, berteriak sekaligus berdecak kagum");
+                i.putExtra("title", "iPhone XS Max");
+                i.putExtra("desc", "Tahun peluncuran: 2018\n" +
+                        "Kapasitas: 64, 256, 512 GB\n" +
+                        "Warna: Silver, space gray, gold\n" +
+                        "Nomor model: A1921, A2101, A2102 (Jepang), A2103, A2104 (Tiongkok daratan)");
                 startActivity(i);
             }
         });
@@ -108,10 +114,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "6");
-                i.putExtra("title", "Wisata Alun Alun Batu ");
-                i.putExtra("desc", "Alun-alun kota Batu Malang Jawa Timur Terbaru adalah satu dari dua alun-alun yang dimiliki Malang. " +
-                        "Alun-alun ini juga disebut dengan Alun-alun Jami’" +
-                        " karena letaknya tepat di depan Masjid Jami’ yang merupakan masjid kebanggaan warga Malang." +
+                i.putExtra("title", "iPhone XR");
+                i.putExtra("desc", "Tahun peluncuran: 2018\n" +
+                        "Kapasitas: 64, 128, 256 GB\n" +
+                        "Warna: Hitam, putih, biru, kuning, koral, (PRODUCT)RED\n" +
+                        "Nomor model: A1984, A2105, A2106 (Jepang), A2107, A2108 (Tiongkok daratan)" +
                         "");
                 startActivity(i);
             }
@@ -121,14 +128,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "7");
-                i.putExtra("title", "Kuliner Warung Wareg Batu ");
-                i.putExtra("desc", "ke kota Batu Malang adalah rumah makan warung wareg. Selain menyediakan masakan tradisional, " +
-                        "rumah makan dengan nama warung wareg ini terkenal dengan berbagai macam masakan olahan" +
-                        " gurami, mulai masakan dari gurami goreng," +
-                        " gurami goreng garing yang dibalut tepung, " +
-                        "hingga gurami bakar dengan berbagai pilihan rasa, " +
-                        "beralamatkan di" +
-                        "Jl. Raya Dieng No.9, Sidomulyo, Kec. Batu, Kota Batu, Jawa Timur 65317");
+                i.putExtra("title", "iPhone X");
+                i.putExtra("desc", "Tahun peluncuran: 2017\n" +
+                        "Kapasitas: 64, 256 GB\n" +
+                        "Warna: Silver dan space gray\n" +
+                        "Nomor model: A1865, A1901, A1902 (Jepang2)");
                 startActivity(i);
             }
         });
@@ -137,9 +141,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "8");
-                i.putExtra("title", "Kuliner Pos Ketan Batu ");
-                i.putExtra("desc", "Saat berwisata ke Kota Malang, salah satu hal yang tak boleh terlewatkan adalah berbagai kuliner khasnya yang menggoda" +
-                        " yakni Pos Ketan Legenda 1967.");
+                i.putExtra("title", "iPhone 8");
+                i.putExtra("desc", "Tahun peluncuran: 2017\n" +
+                        "Kapasitas: 64, 128, 256 GB\n" +
+                        "Warna: Gold, silver, space gray, (PRODUCT)RED\n" +
+                        "Nomor model: A1863, A1905, A1906 (Jepang2)");
                 startActivity(i);
             }
         });
@@ -148,9 +154,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "8");
-                i.putExtra("title", "Kuliner Pos Ketan Batu ");
-                i.putExtra("desc", "Saat berwisata ke Kota Malang, salah satu hal yang tak boleh terlewatkan adalah berbagai kuliner khasnya yang menggoda" +
-                        " yakni Pos Ketan Legenda 1967.");
+                i.putExtra("title", "iPhone 8 Plus");
+                i.putExtra("desc", "Tahun peluncuran: 2017\n" +
+                        "Kapasitas: 64, 128, 256 GB\n" +
+                        "Warna: Gold, silver, space gray, (PRODUCT)RED\n" +
+                        "Nomor model: A1864, A1897, A1898 (Jepang2)");
                 startActivity(i);
             }
         });
@@ -159,9 +167,11 @@ public class BerandaFragment extends Fragment {
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(), DetailActivity.class);
                 i.putExtra("code_image", "8");
-                i.putExtra("title", "Kuliner Pos Ketan Batu ");
-                i.putExtra("desc", "Saat berwisata ke Kota Malang, salah satu hal yang tak boleh terlewatkan adalah berbagai kuliner khasnya yang menggoda" +
-                        " yakni Pos Ketan Legenda 1967.");
+                i.putExtra("title", "iPhone 7");
+                i.putExtra("desc", "Tahun peluncuran: 2016\n" +
+                        "Kapasitas: 32, 128, 256 GB\n" +
+                        "Warna: Hitam, jet black, gold, rose gold, silver, (PRODUCT)RED\n" +
+                        "Nomor model di penutup belakang: A1660, A1778, A1779 (Jepang4)");
                 startActivity(i);
             }
         });
