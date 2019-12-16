@@ -35,7 +35,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/satu" />
+                        android:src="@drawable/satu1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -67,7 +67,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/dua" />
+                        android:src="@drawable/dua1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -98,7 +98,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/dua" />
+                        android:src="@drawable/dua1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -116,7 +116,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/tiga">
+                    android:src="@drawable/tiga1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>
@@ -136,7 +136,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/satu" />
+                        android:src="@drawable/satu1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -154,7 +154,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/duabelas">
+                    android:src="@drawable/duabelas1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>
@@ -174,7 +174,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/duabelas" />
+                        android:src="@drawable/duabelas1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -192,7 +192,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/lima">
+                    android:src="@drawable/lima1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>
@@ -212,7 +212,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/satu" />
+                        android:src="@drawable/satu1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -230,7 +230,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/enam">
+                    android:src="@drawable/enam1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>
@@ -250,7 +250,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/satu" />
+                        android:src="@drawable/satu1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -268,7 +268,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/tujuh">
+                    android:src="@drawable/tujuh1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>
@@ -288,7 +288,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/satu" />
+                        android:src="@drawable/satu1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -306,7 +306,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/delapan">
+                    android:src="@drawable/delapan1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>
@@ -326,7 +326,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/satu" />
+                        android:src="@drawable/satu1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -344,7 +344,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/sembilan">
+                    android:src="@drawable/sembilan1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>
@@ -364,7 +364,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/satu" />
+                        android:src="@drawable/satu1" />
 
                     <LinearLayout
                         android:layout_width="match_parent"
@@ -383,7 +383,7 @@
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/sepuluh">
+                    android:src="@drawable/sepuluh1">
 
                 </ImageView>
             </androidx.cardview.widget.CardView>

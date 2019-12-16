@@ -27,42 +27,42 @@ public class DetailActivity extends AppCompatActivity {
         if(getIntent().getExtras().getString("code_image").equals("1")){
             Glide
                     .with(this)
-                    .load(R.drawable.satu)
+                    .load(R.drawable.satu1)
                     .into(imageView2);
         }else if (getIntent().getExtras().getString("code_image").equals("2")){
             Glide
                     .with(this)
-                    .load(R.drawable.dua)
+                    .load(R.drawable.dua1)
                     .into(imageView2);
         }else if (getIntent().getExtras().getString("code_image").equals("3")){
             Glide
                     .with(this)
-                    .load(R.drawable.tiga)
+                    .load(R.drawable.tiga1)
                     .into(imageView2);
         }else if (getIntent().getExtras().getString("code_image").equals("4")){
             Glide
                     .with(this)
-                    .load(R.drawable.empat)
+                    .load(R.drawable.empat1)
                     .into(imageView2);
         }else if (getIntent().getExtras().getString("code_image").equals("5")){
             Glide
                     .with(this)
-                    .load(R.drawable.lima)
+                    .load(R.drawable.lima1)
                     .into(imageView2);
         }else if (getIntent().getExtras().getString("code_image").equals("6")){
             Glide
                     .with(this)
-                    .load(R.drawable.enam)
+                    .load(R.drawable.enam1)
                     .into(imageView2);
         }else if (getIntent().getExtras().getString("code_image").equals("7")){
             Glide
                     .with(this)
-                    .load(R.drawable.tujuh)
+                    .load(R.drawable.tujuh1)
                     .into(imageView2);
         }else if (getIntent().getExtras().getString("code_image").equals("8")){
             Glide
                     .with(this)
-                    .load(R.drawable.delapan)
+                    .load(R.drawable.delapan1)
                     .into(imageView2);
         }
     }
