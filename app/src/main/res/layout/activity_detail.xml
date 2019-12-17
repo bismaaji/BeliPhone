@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
+    android:background="#0C0C0C"
     tools:context=".activities.DetailActivity">
 
     <TextView
@@ -47,6 +48,27 @@
 
 
     </androidx.cardview.widget.CardView>
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="2dp"
+    app:cardUseCompatPadding="true">
 
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/beli"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:background="#F6F8F8"
+            android:text="Beli" />
+
+    </LinearLayout>
 
 </LinearLayout>
