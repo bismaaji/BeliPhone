@@ -19,6 +19,7 @@ public class DetailActivity extends AppCompatActivity {
     TextView title,desc;
     ImageView imageView2;
     Button beli;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
