@@ -6,4 +6,477 @@
     android:layout_height="match_parent"
     tools:context=".activities.AksesorisActivity">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                tools:context=".activities.AksesorisActivity">
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    tools:context=".activities.AksesorisActivity">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris1"></ImageView>
+
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="Aseesoris Murah"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris2"></ImageView>
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="Case iphone 11"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    tools:context=".activities.HotelActivity">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris3"></ImageView>
+
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="Case Iphone 11 Pro"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris4"></ImageView>
+
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="Case Iphone 11 Black"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    tools:context=".activities.HPActivity">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris5"></ImageView>
+
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="Case Iphone 11 Pro"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris6"></ImageView>
+
+
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="HeadPhone"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    tools:context=".activities.HPActivity">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris7"></ImageView>
+
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="Air pod"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:cardCornerRadius="6dp"
+                        app:cardElevation="2dp"
+                        app:cardUseCompatPadding="true">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:padding="12dp"
+                            android:weightSum="3">
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="150dp">
+
+                                <ImageView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_marginTop="3dp"
+                                    android:scaleType="fitXY"
+                                    android:src="@drawable/asesoris8"></ImageView>
+
+
+
+
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="10dp">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerInParent="true"
+                                    android:layout_marginTop="12dp"
+                                    android:text="Adaptor"
+                                    android:gravity="center"
+                                    android:textColor="@android:color/black"
+                                    android:textSize="20sp" />
+
+                            </RelativeLayout>
+
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
