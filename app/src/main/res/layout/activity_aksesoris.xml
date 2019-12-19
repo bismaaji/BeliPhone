@@ -137,7 +137,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
-                    tools:context=".activities.HotelActivity">
+                    tools:context=".activities.AksesorisActivity">
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="0dp"
@@ -364,7 +364,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
-                    tools:context=".activities.HPActivity">
+                    tools:context=".activities.AksesorisActivity">
 
                     <androidx.cardview.widget.CardView
                         android:layout_width="0dp"
